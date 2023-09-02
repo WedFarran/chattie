@@ -1,6 +1,5 @@
 import 'package:chattie/core/strings/colors.dart';
 import 'package:chattie/features/auth/presentation/phone_number.dart';
-import 'package:chattie/features/settings/edit_profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:chattie/core/widgets/bottom_navigation_bar.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -10,6 +9,7 @@ import 'features/auth/presentation/OTP_screen.dart';
 import 'features/auth/splash_screen.dart';
 import 'features/chats/presentation/chat_screen.dart';
 import 'features/chats/presentation/chats_screen.dart';
+import 'features/user/presentation/edit_profile_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized;

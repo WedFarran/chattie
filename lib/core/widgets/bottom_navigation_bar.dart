@@ -1,10 +1,9 @@
 import 'package:chattie/core/strings/colors.dart';
 import 'package:chattie/core/strings/images.dart';
-import 'package:chattie/features/friends/presentation/friends.dart';
+import 'package:chattie/features/user/presentation/friends.dart';
 import 'package:flutter/material.dart';
-
 import '../../features/chats/presentation/chats_screen.dart';
-import '../../features/settings/presentation/settings_screen.dart';
+import '../../features/user/presentation/settings_screen.dart';
 
 class ChattieBottomNavigationBar extends StatefulWidget {
   static const String id = 'ChattieBottomNavigationBar';

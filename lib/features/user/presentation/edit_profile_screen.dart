@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import '../../core/strings/colors.dart';
-import '../../core/widgets/blue_button.dart';
-import 'presentation/widgets/edit_textfueld_widget.dart';
+
+import '../../../core/strings/colors.dart';
+import '../../../core/widgets/blue_button.dart';
+import 'widgets/edit_textfueld_widget.dart';
 
 class EditProfileScreen extends StatelessWidget {
   static const String id = 'EditProfileScreen';

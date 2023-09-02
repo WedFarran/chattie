@@ -1,6 +1,6 @@
 import 'package:chattie/core/strings/colors.dart';
 import 'package:chattie/features/chats/presentation/chat_screen.dart';
-import 'package:chattie/features/friends/presentation/add_friends.dart';
+import 'package:chattie/features/user/presentation/add_friends.dart';
 import 'package:flutter/material.dart';
 import '../../../core/widgets/chattie_app_bar.dart';
 import '../../../core/widgets/friend_widget.dart';

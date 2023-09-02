@@ -1,12 +1,11 @@
 import 'package:chattie/core/strings/images.dart';
 import 'package:chattie/core/widgets/chattie_app_bar.dart';
-import 'package:chattie/features/settings/edit_profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import '../../../core/strings/colors.dart';
 import '../../auth/presentation/phone_number.dart';
-import '../../friends/presentation/widgets/info_widget.dart';
+import '../../user/presentation/widgets/info_widget.dart';
+import 'edit_profile_screen.dart';
 import 'provider/logout_provider.dart';
 
 class SettingsScreen extends StatelessWidget {
